@@ -14,7 +14,7 @@ Uygulama, temel bir işletmenin Ürün, Müşteri, Kategori ve Meslek gibi varl�
 * **Kategori ve Meslek Yönetimi:** Dinamik olarak yeni meslek ve kategori tanımlama.
 * **Kullanıcı Profili:** Kullanıcıların kendi profil bilgilerini ve şifrelerini güncelleyebilmesi.
 
-## 🏗 Teknik Yapı ve Mimari
+##  Teknik Yapı ve Mimari
 
 Proje, sorumlulukların ayrılması (Separation of Concerns) ilkesine sadık kalarak **N-Katmanlı Mimari** ile tasarlanmıştır.
 
