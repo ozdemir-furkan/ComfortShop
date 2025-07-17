@@ -47,8 +47,8 @@ Proje, sorumlulukların ayrılması (Separation of Concerns) ilkesine sadık kal
 ---
 
 #### **Müşteri Listesi**
-![Müşteri Listesi](./images/customer)
-
+![Müşteri Listesi]
+<img src="./images/customer" width="auto">
 ---
 
 #### **Meslek Yönetimi**
