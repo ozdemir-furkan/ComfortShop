@@ -35,28 +35,31 @@ Proje, sorumlulukların ayrılması (Separation of Concerns) ilkesine sadık kal
 ## 📸 Ekran Görüntüleri
 
 #### **Giriş Paneli**
-![Giriş Paneli](./images/login)
+![Giriş Paneli](./images/login.png)
 
 ---
 
 #### **Ürün Listesi ve Yönetimi**
-![Ürün Listesi](./images/product)
+![Ürün Listesi](./images/product.png)
 
 ---
+
+#### **Yeni Ürün Ekleme**
+![Yeni Ürün Ekleme](./images/insert.png)
 
 ---
 
 #### **Müşteri Listesi**
-![Müşteri Listesi]
-<img src="./images/customer" width="auto">
+![Müşteri Listesi](./images/customer.png)
+
 ---
 
 #### **Meslek Yönetimi**
-![Meslek Listesi](./images/jobs)
+![Meslek Listesi](./images/jobs.png)
 
 ---
 
 #### **Profil Düzenleme**
-![Profil Düzenleme Sayfası](./images/update)
+![Profil Düzenleme Sayfası](./images/update.png)
 
 
